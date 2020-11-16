@@ -1,0 +1,7 @@
+Instructions: 
+
+You are playing as Santa and your job is to defend the Christmas trees from the Naughty Dinosaurs. 
+
+The Naughty Dinosaurs will come from the right side of the screen straight towards the trees, but as Santa, you can move along the vertical axis (using the up and down keys on your computer) and can press the space bar to fire snowballs at the Naughty Dinosaurs. You score a point for every Naughty Dinosaur you kill with a snowball and once you win the game once you've killed all the Naughty Dinosaurs on screen. 
+
+However, if a Naughty Dinosaur touches Santa or reaches one of the Christmas trees, you lose! Also beware of the walls of fire on the top and bottom of the screen - if Santa touches the fire, he dies! 
